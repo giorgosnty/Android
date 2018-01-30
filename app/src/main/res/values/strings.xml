@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BasketApp</string>
+    <string name="TeamA">Team A</string>
+    <string name="TeamB">Team B</string>
+    <string name="Assists">Assist</string>
+    <string name="Blocks">Block</string>
+    <string name="Points">Points</string>
+    <string name="Turnovers">Turnover</string>
+    <string name="Fouls">Foul</string>
+    <string name="REB">Rebound</string>
+    <string name="FT">FREE THROW</string>
+    <string name="two">2 POINTS</string>
+    <string name="three">3 POINTS</string>
+    <string name="reset">NEW GAME</string>
+    <string name="title">Basketball app</string>
+    <string name="init">0</string>
+
+</resources>
